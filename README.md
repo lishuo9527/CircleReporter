@@ -11,5 +11,7 @@
 ![](http://i1.piimg.com/4851/741cb45bf5c2032d.jpg) 
 
 
+代码部分实现参考：https://github.com/EndlessCheng/Circle-the-Cat
+
 
 
