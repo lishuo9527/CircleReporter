@@ -1,0 +1,29 @@
+body{
+    background-image: url(../img/bg.jpg);
+    background-size:cover
+}
+
+div{
+    text-align: center;
+    padding-top: 25%;
+}
+
+.start{
+	width: 90%
+}
+
+.dialog{
+	padding-top: 30%;
+	width: 90%;
+}
+
+.msg{
+	font-size: 40px;
+	margin-top: -55%;
+	color: red;
+}
+
+#cat{
+	position:absolute;
+	width: 10%;
+}
